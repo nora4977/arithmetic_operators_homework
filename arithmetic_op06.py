@@ -3,7 +3,7 @@ number=27
 #Divide the number by 2 and assign number.
 number1=number/2
 #Find the fraction of the number and assing to a variable called 'answer'.
-answer=number1/number
+answer=number1%number
 #Print the answer.
 print(answer)
 #Print the number
